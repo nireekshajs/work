@@ -1,0 +1,1 @@
+g6 file is created
