@@ -1,0 +1,1 @@
+g2.py file is created
